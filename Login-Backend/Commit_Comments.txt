@@ -1,0 +1,5 @@
+Commit #1 : 
+1) Created login and signup routes.
+2) Used bcrypt to hash password in signup route so that hashed password is stored in databse instead of password.
+3) Used JSON Web Tokens in login route so that token is assigned to user while login.
+4) Created middlewares/check-auth.js which can be used to verify if user has access to particular route or not.
