@@ -1,0 +1,4 @@
+Commit #1:
+1) Created SignIn and SignUp components and attached ngSubmit function on both.
+2) Created service to make POST requests.
+3) Dynamically loading SignUp and SignIn components on button click in AppComponent using ViewChild,ViewContainerRef,ComponentFactoryResolver,ComponentRef.
